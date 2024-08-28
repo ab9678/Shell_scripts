@@ -1,2 +1,2 @@
 # Shell_scripts
-Repository containing 
+Repository containing Bash scripts for linux.
